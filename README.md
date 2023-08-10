@@ -26,7 +26,7 @@
 
 
 
-### Will-Liang's GitHub Activity Graph
+### GitHub Activity Graph
 
 <table align="center">
   <tr>
@@ -37,8 +37,11 @@
 
 
 
-
 ### 📊 WakaTime
+
+<figure><embed src="https://wakatime.com/share/@7afb06e3-0547-4e13-a1aa-30d400604aa2/4b9b5e13-33a3-4efa-b5cb-ab7b847a5f80.svg"></embed></figure>
+
+
 
 <picture>
   <source
