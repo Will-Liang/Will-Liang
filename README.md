@@ -26,9 +26,7 @@
 
 
 
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Will-Liang=xcode" />
-</div>
+[![Will-Liang's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Will-Liang&theme=xcode)](https://github.com/Will-Liang)
 
 
 
