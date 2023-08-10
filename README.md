@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=永远相信美好的事情即将发生!&center=true&size=27"></h1>
 
-
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
 
 <p align="center">Hello! I'm Will-Liang</p>
 
@@ -26,7 +26,15 @@
 
 
 
-[![Will-Liang's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Will-Liang&theme=xcode)](https://github.com/Will-Liang)
+### Will-Liang's GitHub Activity Graph
+
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=Will-LiAng&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
+  </tr>
+</table>
+
+
 
 
 
@@ -43,3 +51,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Will-Liang&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
 </picture>
+
+
+
+
