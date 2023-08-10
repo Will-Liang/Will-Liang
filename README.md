@@ -1,4 +1,3 @@
-<head><script src="https://kit.fontawesome.com/59f63ec522.js" crossorigin="anonymous"></script></head>
 <h1 align="center">Hi 👋, I'm Liang</h1><h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=永远相信美好的事情即将发生!&center=true&size=27"></h3>
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br></div>
@@ -21,9 +20,7 @@
 
 
 
-<i class="fa-regular fa-eye" style="color: #0955d7;"></i>
-
-### <i class="fa-regular fa-eye" style="color: #0955d7;"></i>  Page View
+### Page View
 
 
 
