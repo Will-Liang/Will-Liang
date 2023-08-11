@@ -6,11 +6,15 @@
 
 ### 🌱 Love life and enjoy programming
 
+<div align="center">
+
 - ❤️ I love writing Java, Python, Go
 
 - 💬 Ask me about anything [here](https://github.com/Will-Liang/Will-Liang/issues)
 
 - 📫 How to reach me l2545721422@163.com
+
+</div>
 
 
 
@@ -33,11 +37,11 @@
 
 ### :eyes: Page View
 
-
+<div align="center">
 
 ![Visitors Count](https://profile-counter.glitch.me/Will-Liang/count.svg)
 
-
+</div>
 
 ### 📊 GitHub Activity Graph
 
@@ -52,6 +56,8 @@
 
 ### ⏰ WakaTime
 
+<div align="center">
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Liang88&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
@@ -65,5 +71,5 @@
 </picture>
 
 
-
+</div>
 
